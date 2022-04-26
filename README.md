@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sepuh13
 - 👀 I’m interested in iOS App Development
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on nice team
+- 💞️ I’m looking to collaborate on professional team
 - 📫 WhatsApp/Telegram +374 95 99 00 13/ Mail/ Sepuh13@icloud.com /Facebook https://www.facebook.com/sepuh999
 
 <!---
