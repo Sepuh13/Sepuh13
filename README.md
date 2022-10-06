@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sepuh13
 - 👀 I’m interested in iOS App Development
-- 🌱 I have also passed iOS (SWIFT) using a course on Udemy - The Complete iOS App Development Bootcamp. 
+- 🌱 I use Xcode (Swift) for my development.
 - 💞️ I’m looking to collaborate on professional team
 - 📫 WhatsApp/Telegram +374 95 99 00 13/ Mail/ Sepuh13@icloud.com /Facebook https://www.facebook.com/sepuh999
 
