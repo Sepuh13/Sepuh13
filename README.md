@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sepuh13
+- 👋 Hi, I’m Sepuh
 - 👀 I’m interested in IT Product Management
 - 🌱 I use Xcode (Swift) for my development.
 - 💞️ I’m looking to collaborate on a professional team
