@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sepuh13
-- 👀 I’m interested in iOS App Development
+- 👀 I’m interested in IT Product Management
 - 🌱 I use Xcode (Swift) for my development.
 - 💞️ I’m looking to collaborate on a professional team
-- 📫 WhatsApp/Telegram +374 95 99 00 13/ Mail/ Sepuh13@icloud.com /LinkedIn https://www.linkedin.com/in/sepuh13/
+- 📫 Explore my social links and let's connect > https://linktr.ee/sepuh13
 
 <!---
 Sepuh13/Sepuh13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
